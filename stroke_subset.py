@@ -22,7 +22,7 @@
 """Cut the stroke data of Make Me a Hanzi down to a list of characters.
 
 Standalone on purpose: this script is published together with its output
-under the Arphic Public License, without any app code.
+(Arphic Public License), without any app code. The script itself is MIT.
 
 Input:  graphics.txt from https://github.com/skishore/makemeahanzi
         (one JSON object per line: character, strokes, medians)
