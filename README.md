@@ -6,7 +6,7 @@ requires modified versions of the data to be freely available.
 
 ## Contents
 
-- `hanzi_strokes.json` — stroke outlines and median lines for 409
+- `hanzi_strokes.json` — stroke outlines and median lines for 517
   characters and components, as bundled with the app.
 - `stroke_subset.py` — the script that produces it from `graphics.txt`.
 - `ARPHICPL.txt` — the Arphic Public License.
